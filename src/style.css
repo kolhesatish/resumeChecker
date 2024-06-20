@@ -1,0 +1,25 @@
+/* styles.css */
+
+/* Centering container */
+.center-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Adjust as needed */
+  }
+  
+  /* Logout button */
+  .logout-btn {
+    cursor: pointer;
+    padding: 10px 20px;
+    background-color: #ff6347;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .logout-btn:hover {
+    background-color: #d1533a;
+  }
+  
